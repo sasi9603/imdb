@@ -1,0 +1,11 @@
+#template{
+    width: 1000px;
+    margin: 0 auto;
+}
+.container{
+    float: left;
+    margin: 10px;
+}
+.container1{
+    height: 600px !important;
+}
